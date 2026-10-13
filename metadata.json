@@ -1,0 +1,6 @@
+{
+  "name": "Secret Share",
+  "description": "Anonymous voice-based emotional sanctuary where strangers connect over encrypted calls to share secrets without knowing each other's identity.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
